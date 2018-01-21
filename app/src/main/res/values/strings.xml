@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Effortless</string>
+
+    <string name="main_stop_service">Stop Service</string>
+    <string name="main_start_service">Start Service</string>
+    <string name="toast_no_proximity_sensor_found">No proximity sensor</string>
+
+    <string name="device_admin_enabled_message">AdminActive</string>
+    <string name="device_admin_disable_requested_message">RemoveAdmins</string>
+    <string name="device_admin_disabled_message">AdminInactive</string>
+
+    <string name="main_device_admin_description">Device HHH</string>
+
+</resources>
